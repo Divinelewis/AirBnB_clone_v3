@@ -158,6 +158,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Yusuf Gbadamosi - [Github](https://github.com/@ygbadamosi662) / [Twitter](https://twitter.com/gkingii)
+Divine Lewis - [Github](https://github.com/divinelewis) / [LinkedIn](https://linkedin.com/in/divinelewis)
 
 Second part of Airbnb: Joann Vuong
 ## License
